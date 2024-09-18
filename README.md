@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanderDeSalamander17
 - 👀 I’m interested in JavaScript, CSS/HTML and Python.
 - 🌱 I’m currently learning CSS/HTML.
-- 📫 How to reach me @sunrisesander1@gmail.com
+- 📫 How to reach me @592024@edu.rocmn.nl
 - ⚡ Fun fact: Im not good in coding but I am good in designing.
